@@ -54,3 +54,9 @@ Feel free to fork the repo or open an issue!
 
 ## 🧾 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+## 📘 Course 7: Capstone Project
+This folder contains the final deliverables for the Google Advanced Data Analytics Certificate capstone.  
+Includes:
+- PACE Strategy Document  
+- Executive Summary  
+- Salifort Motors Project Lab Report
