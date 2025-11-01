@@ -119,6 +119,14 @@ Course5_TikTok_Regression/
 Course6_Automatidata_ML/
 Course7_Capstone_Salifort/
 
+## Tableau Projects
+- [Film Strikes Analysis (2009–2018)](https://public.tableau.com/app/profile/andreis.verhovods/viz/AndrejsV_Film_Strikes_2009_to_2018/Sheet12)
+- [Dataset Insights Dashboard](https://public.tableau.com/app/profile/andreis.verhovods/viz/AndrejsVDataset/Sheet1)
+- [Business Performance Dashboard](https://public.tableau.com/app/profile/andreis.verhovods/viz/AndrejsV_firstwork/Sheet2)
+- [Strikes in the USA – Tableau Story](https://public.tableau.com/app/profile/andreis.verhovods/viz/AndrejsV_StrikesinUSA/Story1)
+- [Comprehensive Data Insights Dashboard](https://public.tableau.com/app/profile/andreis.verhovods/viz/AndrejsV_finaltableau/Dashboard1)
+- [Final Tableau Dashboard II – Comparative Analytics](https://public.tableau.com/app/profile/andreis.verhovods/viz/AndrejsVfinal2/Dashboard1)
+- 
 This repository is open for educational and portfolio purposes under the MIT License.
 
 ---
